@@ -2,7 +2,15 @@
 
 A collection of files and tools I use for development.
 
+## Fonts
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
+- [Meslo Nerd Font](https://github.com/romkatv/powerlevel10k#fonts)
+
 ## Shell
+
+### General
 
 - [iTerm2](https://iterm2.com)
 - [Homebrew](https://brew.sh)
