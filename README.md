@@ -2,6 +2,22 @@
 
 A collection of files and tools I use for development.
 
+## Shell
+
+- [iTerm2](https://iterm2.com)
+- [Homebrew](https://brew.sh)
+
+### Z Shell
+
+- [Oh My Zsh](https://ohmyz.sh)
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
+#### Oh My Zsh Plugins
+
+- [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+- [extract](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/extract)
+- [z](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/z)
+
 ## Sublime Text Plugins
 
 - [CMake](https://packagecontrol.io/packages/CMake)
