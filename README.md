@@ -10,10 +10,9 @@ A collection of files and tools I use for development.
 
 ## Shell
 
-### General
+### macOS
 
 - [iTerm2](https://iterm2.com)
-- [Homebrew](https://brew.sh)
 
 ### Z Shell
 
