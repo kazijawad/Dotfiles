@@ -10,10 +10,6 @@ A collection of files and tools I use for development.
 
 ## Shell
 
-### macOS
-
-- [iTerm2](https://iterm2.com)
-
 ### Z Shell
 
 - [Oh My Zsh](https://ohmyz.sh)
