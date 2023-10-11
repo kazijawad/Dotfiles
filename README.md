@@ -29,7 +29,6 @@ A collection of files and tools I use for development.
 
 - [CMake](https://packagecontrol.io/packages/CMake)
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
-- [GitHub Theme](https://packagecontrol.io/packages/GitHub%20Theme)
 - [LSP](https://packagecontrol.io/packages/LSP)
 - [LSP-rust-analyzer](https://packagecontrol.io/packages/LSP-rust-analyzer)
 - [LSP-typescript](https://packagecontrol.io/packages/LSP-typescript)
